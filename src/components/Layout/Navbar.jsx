@@ -13,7 +13,7 @@ const Navbar = () => {
   const handleLogout = async () => {
     try {
       const response = await axios.get(
-        "https://mern-job-seeking-webapp-server.vercel.app/api/v1/user/logout",
+        "https://mern-job-seeking-webapp-server.onrender.com/api/v1/user/logout",
         {
           withCredentials: true,
         }

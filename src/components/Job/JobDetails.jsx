@@ -12,7 +12,7 @@ const JobDetails = () => {
 
   useEffect(() => {
     axios
-      .get(`https://mern-job-seeking-webapp-server.vercel.app/api/v1/job/${id}`, {
+      .get(`https://mern-job-seeking-webapp-server.onrender.com/api/v1/job/${id}`, {
         withCredentials: true,
       })
       .then((res) => {

@@ -23,7 +23,7 @@ const App = () => {
     const fetchUser = async () => {
       try {
         const response = await axios.get(
-          "https://mern-job-seeking-webapp-server.vercel.app/api/v1/user/getuser",
+          "https://mern-job-seeking-webapp-server.onrender.com/api/v1/user/getuser",
           {
             withCredentials: true,
           }

@@ -18,7 +18,7 @@ const Login = () => {
     e.preventDefault();
     try {
       const { data } = await axios.post(
-        "https://mern-job-seeking-webapp-server.vercel.app/api/v1/user/login",
+        "https://mern-job-seeking-webapp-server.onrender.com/api/v1/user/login",
         { email, password, role },
         {
           headers: {
