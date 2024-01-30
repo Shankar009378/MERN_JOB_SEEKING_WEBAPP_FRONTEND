@@ -1,4 +1,4 @@
-# MERN JOB SEEKING WEBAPP SERVER
+# MERN JOB SEEKING WEBAPP FRONTEND
 
 Hello👋! My name is **Shankar Kumar Nanda**. I have created this **Job Seeking Website** named **JobZee**. It is a comprehensive job seeking website designed to simplify and enhance your job search experience. With JobZee, you can explore thousands of job listings, apply to your dream positions, and embark on a successful career journey.
 
@@ -17,9 +17,11 @@ Hello👋! My name is **Shankar Kumar Nanda**. I have created this **Job Seeking
 
 -   **Real-Time Updates**: Stay informed with real-time updates and notifications on your job application statuses.
 
+-   **Responsive Design**: Ensures a seamless experience across various devices.
+
 # Technologies I Used
 
--   **Frontend**: React.Js, CSS.
+-   **Frontend**: React.Js, CSS, App UI.
 -   **Language**: JavaScript.
 -   **Backend**: Node.Js, Express.Js, Mongoose.
 -   **Database**: MongoDB, Cloudinary.
